@@ -1,0 +1,49 @@
+{
+  "questions": [
+    {
+      "question": "What is VLOOKUP in Excel?",
+      "keyPoints": [
+        "lookup_value",
+        "table_array",
+        "col_index_num",
+        "leftmost column must contain lookup_value",
+        "exact vs approximate match (range_lookup)"
+      ]
+    },
+    {
+      "question": "Explain what a PivotTable does.",
+      "keyPoints": [
+        "grouping",
+        "rows/columns/values/filters",
+        "aggregation (sum/count/avg)",
+        "drag fields to areas to summarize"
+      ]
+    },
+    {
+      "question": "What is the difference between relative and absolute cell references?",
+      "keyPoints": [
+        "relative references change on copy (A1)",
+        "absolute references $A$1 don't change",
+        "mixed references (A$1, $A1) use-cases"
+      ]
+    },
+    {
+      "question": "How do you apply conditional formatting?",
+      "keyPoints": [
+        "select range",
+        "Home → Conditional Formatting",
+        "use rule or formula",
+        "examples: highlight cells based on values"
+      ]
+    },
+    {
+      "question": "What are Excel macros used for?",
+      "keyPoints": [
+        "record macro to automate clicks",
+        "VBA for advanced macros",
+        "automation use-cases",
+        "security (Trust Center)"
+      ]
+    }
+  ]
+}
