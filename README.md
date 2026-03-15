@@ -1,7 +1,7 @@
 # Excel Interview Chat — Mock Interviewer
 
 **Candidate:** Mahika Bhardwaj  
-**Role:** Gen AI Engineer — Coding Ninjas Assignment  
+**Role:** Gen AI Engineer  
 
 ## Overview
 
